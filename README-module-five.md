@@ -28,4 +28,8 @@ https://github.com/iamdanjoyce/module-five-password
 
 This contains all the files and licenses for the Module Challenge.
 
+https://iamdanjoyce.github.io/module-five-password/
+
+This is the published webpage to the webpage that contains the password generator.
+
 
