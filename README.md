@@ -20,7 +20,7 @@ To alert if a none numerically number has been input.
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 To help with any Math question I have when refencing the code.
 
-### Links to GitHub
+## Links to GitHub
 
 Below are links to my Repository on Githib.
 
@@ -32,4 +32,18 @@ https://iamdanjoyce.github.io/module-five-password/
 
 This is the published webpage to the webpage that contains the password generator.
 
+## Screenshots of the Password Generator
 
+Below are screenshots of the Password Generator working
+
+The first screenshot shows the password generator prompting for how many characters you require.
+
+![Password Generator Prompt](<assets/Screenshot 1.jpg>)
+
+The second screenshot shows the prompt to include special characters.
+
+![Password Generator Prompt](<assets/Screenshot 2.jpg>)
+
+The third screenshot shows the password generated.
+
+![Password Generator End Result](<assets/Screenshot 4.jpg>)
